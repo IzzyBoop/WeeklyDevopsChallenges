@@ -1,0 +1,11 @@
+Week 0's challenge is to set up git so that you can clone this repository. 
+
+Some resources to help you along with this one: 
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+https://desktop.github.com/
+https://www.sourcetreeapp.com/
+
+Subsequent weekly challenges will be posted to their own folder in this repository.
+If you can see this file on your own computer, then you've succeeded at the
+Week 0 challenge! Pat yourself on the back.
+
