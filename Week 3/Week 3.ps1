@@ -38,7 +38,7 @@ Function Test-Challenge2 {
 
 }
 
-unction Test-Challenge3 {
+Function Test-Challenge3 {
   param (
     [Parameter(Position=0)]
     [ValidateNotNullOrEmpty()]
